@@ -1,4 +1,4 @@
-HOW TO FIND OPEN PROGRAMMES FOR BUG BOUNTY WHICH PAYS 100$ TO 10000$ 
+HOW TO FIND OPEN PROGRAMS FOR BUG BOUNTY WHICH PAYS 100$ TO 10000$ 
 
 responsible disclosure reward r=h:UK
 site:*.*.nl intext:security report reward
